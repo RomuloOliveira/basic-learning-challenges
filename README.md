@@ -1,5 +1,5 @@
-# basic-learning-dojo
-My mini-challenge used to learn new languages or/and tools
+# basic-learning-challenges
+My mini-challenges used to learn new languages, frameworks, tools and other stuff.
 
 ## APIs and REST stuff
 

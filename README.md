@@ -16,3 +16,18 @@ All responses of social media content must be "normalized", i.e., the response e
 - Unit tests
 - Coverage report
 - Automatic install/build/run
+
+## Frontend and UI/UX (web)
+
+### Challenge
+
+Create a gallery UI where users can upload images, see a list of uploaded images (paginated), see a list of galleries, etc. The images should have metadata associated, so users can filter and search easily.
+
+### Meta-Challenge
+
+Provide a completely separated backend via REST API, restricting thegallery application to consume and display data only.
+
+### Requirements
+
+- Project documentation
+- Automatic install/build/run

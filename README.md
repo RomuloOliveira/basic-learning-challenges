@@ -25,7 +25,7 @@ Create a gallery UI where users can upload images, see a list of uploaded images
 
 ### Meta-Challenge
 
-Provide a completely separated backend via REST API, restricting thegallery application to consume and display data only.
+Provide a completely separated backend via REST API, restricting thegallery application to consume and display data only. This backend may be reused in futures challenges to focus only on UI.
 
 ### Requirements
 
